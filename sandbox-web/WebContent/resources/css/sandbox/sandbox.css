@@ -1,0 +1,23 @@
+.f-editable-textarea:disabled {
+	border: none;
+}
+
+.f-editable-textarea.mouseover {
+	border: 1px solid rgba(0,0,0,0.5);
+}
+
+.cb {
+	border: 1px solid rgba(255,255,255,0.9);
+	border-radius: 3px;
+}
+
+.fw { width: 100%; }
+
+.tac { text-align: center; }
+.big { font-size: 48px; }
+
+.mainContainer { height: 100%; display: table; }
+
+.stacked {margin-bottom: 20px;}
+
+html { height: 100%; }
